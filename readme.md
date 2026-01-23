@@ -5,3 +5,5 @@ This repository contains multiple React projects built for learning, practice, a
 ## Projects List
 
 counter app
+locationcheck
+color changer
